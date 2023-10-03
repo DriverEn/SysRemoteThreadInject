@@ -1,0 +1,31 @@
+﻿  Building 'Inject' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  文件不存在
+  
+  MainDriver.c
+MainDriver.c(3): error C2220: 警告被视为错误 - 没有生成“object”文件
+MainDriver.c(3): warning C4100: “pDriver”: 未引用的形参
+MainDriver.c(8): warning C4100: “pReg”: 未引用的形参
+  Memory.c
+Memory.c(7): error C2220: 警告被视为错误 - 没有生成“object”文件
+Memory.c(7): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+Memory.c(8): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+Memory.c(9): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+Memory.c(10): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+Memory.c(11): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+Memory.c(12): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+Memory.c(13): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+Memory.c(14): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+Memory.c(15): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+Memory.c(16): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+Memory.c(17): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+Memory.c(18): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+Memory.c(19): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+Memory.c(20): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+Memory.c(21): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+Memory.c(22): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+Memory.c(31): warning C4133: “函数”: 从“RTL_OSVERSIONINFOEXW *”到“PRTL_OSVERSIONINFOW”的类型不兼容
+Memory.c(104): warning C4047: “初始化”:“PHardwarePte”与“ULONG64”的间接级别不同
+Memory.c(113): warning C4047: “初始化”:“PHardwarePte”与“ULONG64”的间接级别不同
+Memory.c(158): warning C4047: “函数”:“ULONG64”与“PVOID”的间接级别不同
+Memory.c(158): warning C4024: “SetExecutePage”: 形参和实参 1 的类型不同
+  正在生成代码...

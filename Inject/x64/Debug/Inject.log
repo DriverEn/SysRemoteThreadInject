@@ -1,0 +1,13 @@
+﻿  Building 'Inject' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  MainDriver.c
+MainDriver.c(5): warning C4100: “pDriver”: 未引用的形参
+MainDriver.c(21): warning C4022: “InjectX64”: 指针与实参 1 不匹配
+MainDriver.c(21): warning C4057: “函数”:“char *”与“unsigned char *”在稍微不同的基类型间接寻址上不同
+MainDriver.c(10): warning C4100: “pReg”: 未引用的形参
+  Inject.vcxproj -> E:\driver_project\zj\zj5\zx\Inject\x64\Debug\Inject.sys
+  Inject.vcxproj -> E:\driver_project\zj\zj5\zx\Inject\x64\Debug\Inject.pdb (Full PDB)
+  Done Adding Additional Store
+  Successfully signed: E:\driver_project\zj\zj5\zx\Inject\x64\Debug\Inject.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  
